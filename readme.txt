@@ -1,1 +1,1 @@
-git is shit
+git is a free soft
